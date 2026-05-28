@@ -471,12 +471,7 @@ If you want to add a new translation, read this [document](./docs/translation.md
 [@Licoy](https://github.com/Licoy)
 [@shangmin2009](https://github.com/shangmin2009)
 
-### Contributors
-
-<a href="https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ChatGPTNextWeb/ChatGPT-Next-Web" />
-</a>
-
+优惠价GPT  claude会员充值，正版订阅 售后无忧，https://doloffer.com 9折优惠码：AI8888
 ## LICENSE
 
 [MIT](https://opensource.org/license/mit/)
